@@ -60,7 +60,7 @@ public class ScriptDriver {
 		test = report.startTest("ExtentDemo");
 		
 		System.out.print("Got the data value :"+data.get("ToRun"));
-		//Firefox driver gu
+		//Firefox driver 123
 		/* 
 		WebDriver driver = new FirefoxDriver();
 		driver.manage().window().maximize();
